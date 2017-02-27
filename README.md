@@ -1,6 +1,6 @@
 # sectionlessconfigparser
 
-Config parser for files without section breaks.
+Python 3 config parser for files without section headers/breaks.
 
 * Free software: BSD license
 
